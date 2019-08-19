@@ -1,0 +1,6 @@
+owner=261781896319598592
+prefix=+
+game=Bplay
+stayinchannel=true
+songinstatus=false
+token=NjEyOTkzODE3NTQ0NjIyMTAw.XVqdIQ.yhsZa4jq5jBemz9x9RyhEuF_W5k
